@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_a17ce06fa0ba194966fa8306a077b0762b85b41a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_56606fdacf94237f02ef082f62dd87f8acc6b51f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_edc184caaf58ca1a9e07094a7c2a3be21bb0bbf6\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1366eaac3d3db85c06c048105f735c3b1ee764a">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52f2509378a58585352044e3d7a56a0e68802c19\classes.dex" />
+    </item>
+    <item
+        jar="F:\Installan\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_b698cc1cea876f7efe719d2ba0a041fad2599851\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_cf6708965debd371cab561b22436fc5a3ed1e371\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="732b0f701d5683d64f3fa503bdc7f871329a4c32">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c58a7fb8da29b410bd6920d0d2c443d7b835b275\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_3a820263c6aac98ef4a52fe9d91c143e991d730b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_c86cd72d2456316be8fef338e5f714b3f018dc19\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Hayuri\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Android\Hayuri\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_078257898bf2d853782eb0cd0197c40fe0b78ca3\classes.dex" />
+    </item>
+
+</items>
